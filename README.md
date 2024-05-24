@@ -1,1 +1,1 @@
-# Apache Spark - Data Cleansing (Workshop R2DE 2.0 by DataTH)
+# Apache Spark - Data Cleansing (Workshop R2DE2.0, DataTH)
