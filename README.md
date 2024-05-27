@@ -1,6 +1,9 @@
 # Apache Spark - Data Cleansing Workshop - R2DE2.0 2023 (DataTH)
 **Data Cleansing Workshop** เป็น Chapter ที่ 2 ของคอร์สออนไล Road to Data Engineer 2.0 (2023) ที่จะได้ลองทำความสะอาดข้อมูลให้พร้อมใช้งาน โดยใช้เครื่องมือ Distributed Data Processing ด้วย Apache Spark ซึ่งเป็นหนึ่งในงานของ Data Engineer
 
+![image](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE2.0/assets/89971741/4e3a67fa-177f-455b-a935-8b9d6c200eab)
+_Credit DataTH : Data Cleansing Workshop_
+
 ![2021-08-28 13 29 56-2 Data Cleansing - Google Slides and 2 more pages - Personal - Microsoft_ Edge](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE2.0/assets/89971741/7367f770-babc-47d1-928f-bbcfd7493f72)
 _Credit DataTH : ตัวอย่างข้อมูล Transection ร้านขายหนังสือเสียง_
 
