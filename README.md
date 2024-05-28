@@ -16,5 +16,5 @@ _**Python script**_ [Apache_Spark_Data_Cleansing.ipynb](https://github.com/suben
 4. Data Cleansing with Spark
 
 ## Output
-ผลลัพธ์ที่ได้ทำความสะอาดข้อมูล รูปแบบไฟล์ CSV\
+ผลลัพธ์ที่ได้ทำความสะอาดข้อมูล รูปแบบไฟล์ CSV
 * Partitioned files [output_transection_clean_partitioned](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE2.0/tree/main/output_transection_clean_partitioned)
