@@ -9,7 +9,7 @@ _Credit DataTH : ตัวอย่างข้อมูล Transection ร้�
 
 ## Workflow
 _**Technology used :** PySpark, SparkSQL_\
-_**Python script**_ [Apache_Spark_Data_Cleansing.ipynb]()
+_**Python script**_ [Apache_Spark_Data_Cleansing.ipynb](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE2.0/blob/main/Apache_Spark_Data_Cleansing.ipynb)
 1. ติดตั้ง Spark และ PySpark บน Google Colab เป็นเครื่องมือสำหรับรันคำสั่ง Python และ Bash บนคอมพิวเตอร์จำลอง (Virtual Machine)
 2. Data Profiling ทำความเข้าใจข้อมูลเบื้องต้น
 3. Exploratory Data Analysis (EDA)
@@ -17,5 +17,4 @@ _**Python script**_ [Apache_Spark_Data_Cleansing.ipynb]()
 
 ## Output
 ผลลัพธ์ที่ได้ทำความสะอาดข้อมูล รูปแบบไฟล์ CSV\
-* Single file []()
-* Partitioned files []()
+* Partitioned files [output_transection_clean_partitioned](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE2.0/tree/main/output_transection_clean_partitioned)
