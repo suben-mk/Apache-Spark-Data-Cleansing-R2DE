@@ -8,7 +8,7 @@ _Credit DataTH : Data Cleansing Workshop_
 _Credit DataTH : ตัวอย่างข้อมูล Transection ร้านขายหนังสือเสียง_
 
 ## Workflow
-_**Technology used :** PySpark, SparkSQL_\
+_**Technology used :** Python (Google Colab), Apache Spark (PySpark)_\
 _**Python script**_ [Apache_Spark_Data_Cleansing.ipynb](https://github.com/suben-mk/Apache-Spark-Data-Cleansing-R2DE2.0/blob/main/Apache_Spark_Data_Cleansing.ipynb)
 1. ติดตั้ง Spark และ PySpark บน Google Colab เป็นเครื่องมือสำหรับรันคำสั่ง Python และ Bash บนคอมพิวเตอร์จำลอง (Virtual Machine)
 2. Data Profiling ทำความเข้าใจข้อมูลเบื้องต้น
